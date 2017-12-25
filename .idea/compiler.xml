@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="playingloves" />
         <module name="weist" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="playingloves" target="1.7" />
       <module name="weist" target="1.7" />
     </bytecodeTargetLevel>
   </component>

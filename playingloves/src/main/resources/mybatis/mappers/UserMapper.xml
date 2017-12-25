@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.weiyt.mapper.UserMapper">
+    <update id="changePassword" parameterType="HashMap">
+        UPDATE user SET password =#{password} where id = #{id}
+    </update>
+
+    <select id="findUserById" resultType="UserInfo" parameterType="HashMap">
+        select * from user where name = #{userName} and password = #{passWord}
+    </select>
+
+
+</mapper>
