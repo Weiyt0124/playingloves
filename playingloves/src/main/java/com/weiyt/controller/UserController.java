@@ -77,17 +77,15 @@ public class UserController extends BaseController {
         String formatDate = DateUtil.formatDate(new Date(), "yyyyMMdd");
         if (!file.isEmpty()) {
             Calendar now = Calendar.getInstance();
-            String returnImgPath = downImgPath + now.get(Calendar.YEAR) + "/" + (now.get(Calendar.MONTH) + 1) + "/" + now.get(Calendar.DAY_OF_MONTH) + "/" + formatDate + "/";
-            String path = imgPath + now.get(Calendar.YEAR) + "/" + (now.get(Calendar.MONTH) + 1) + "/" + now.get(Calendar.DAY_OF_MONTH) + "/" + formatDate + "/";
-            FileInfo fileInfo = FileUtils.uploadFile(file, path);
-            returnImgPath = returnImgPath + fileInfo.getId();
+            String imgPath = imagePath + now.get(Calendar.YEAR) + "/" + (now.get(Calendar.MONTH) + 1) + "/" + now.get(Calendar.DAY_OF_MONTH) + "/" + formatDate + "/";
+            FileInfo fileInfo = FileUtils.uploadFile(file, imgPath);
+            imgPath = imgPath + fileInfo.getId();
             String id = (String) request.getSession().getAttribute("id");
             param.put("id",id);
-            param.put("avatar",returnImgPath);
+            param.put("avatar",imgPath);
             userService.saveAvatar(param);
-            resultMap.put("filePath", returnImgPath);
-            request.setAttribute("img", returnImgPath);
-
+            resultMap.put("filePath", imgPath);
+            request.setAttribute("img", imgPath);
         }
         return resultMap;
 

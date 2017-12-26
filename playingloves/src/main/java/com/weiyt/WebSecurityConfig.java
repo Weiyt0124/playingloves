@@ -31,6 +31,7 @@ public class WebSecurityConfig extends WebMvcConfigurerAdapter {
     public void addViewControllers(ViewControllerRegistry registry) {
         registry.addViewController("/404").setViewName("404");
         registry.addViewController("/home").setViewName("home");
+        registry.addViewController("/login").setViewName("login");
     }
 
     @Override

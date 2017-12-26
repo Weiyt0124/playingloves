@@ -17,10 +17,7 @@ import java.util.Map;
 public class BaseController {
 
     @Value("${imgPath}")
-    protected String imgPath;
-
-    @Value("${downImgPath}")
-    protected String downImgPath;
+    protected String imagePath;
 
 
     /**
