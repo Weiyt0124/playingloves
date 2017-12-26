@@ -1,5 +1,6 @@
 package com.weiyt.controller;
 
+import com.weiyt.base.BaseController;
 import com.weiyt.pojo.UserInfo;
 import com.weiyt.service.UserService;
 import com.weiyt.util.DateUtil;
@@ -24,7 +25,7 @@ import java.util.Map;
  */
 @Controller
 @RequestMapping("user")
-public class UserController extends BaseController{
+public class UserController extends BaseController {
     @Autowired
     UserService userService;
     /**

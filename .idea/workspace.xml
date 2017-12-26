@@ -6,401 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65f98c50-a50a-46d3-8475-2693c2675155" name="Default" comment="改名">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/playingloves_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/playingloves_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_abel533_mapper_2_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_3_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160810.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BasePojo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BaseService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/common/HttpUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/BaseController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/QueryController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/pojo/Forum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/pojo/MessageBoard.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/pojo/UserInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/util/DateUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/util/FileInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/util/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mappers/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mybatis-config.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/weist/src/main/java/com/weiyt/weist/DemoweistApplication.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/.gitignore" afterPath="$PROJECT_DIR$/playingloves/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/.mvn/wrapper/maven-wrapper.jar" afterPath="$PROJECT_DIR$/playingloves/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/.mvn/wrapper/maven-wrapper.properties" afterPath="$PROJECT_DIR$/playingloves/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/mvnw" afterPath="$PROJECT_DIR$/playingloves/mvnw" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/mvnw.cmd" afterPath="$PROJECT_DIR$/playingloves/mvnw.cmd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/pom.xml" afterPath="$PROJECT_DIR$/playingloves/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/java/com/weiyt/weist/ServletInitializer.java" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/ServletInitializer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/java/com/weiyt/weist/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WebSecurityConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/application.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/app.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/buttons.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/buttons.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/forum/ForumCtrl.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/forum/ForumCtrl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/forum/ForumService.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/forum/ForumService.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/forum/views/list.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/forum/views/list.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/general.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/general.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/index.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/index.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/login.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/login.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/app/panels.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/panels.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/css/style-responsive.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/css/style-responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/css/style.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/css/table-responsive.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/css/table-responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/css/to-do.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/css/to-do.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/css/zabuto_calendar.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/css/zabuto_calendar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/font-awesome/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/Thumbs.db" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/Thumbs.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/blog-bg.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/blog-bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/checkbox-gray.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/checkbox-gray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/Thumbs.db" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/Thumbs.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-01.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-02.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-03.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-04.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-05.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-06.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-07.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-08.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-08.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-09.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-09.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-10.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/friends/fr-11.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/friends/fr-11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/instagram.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/instagram.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/login-bg.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/login-bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/lorde.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/lorde.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/mask.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/mask.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/ny.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/ny.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/portfolio/Thumbs.db" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/portfolio/Thumbs.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/portfolio/port01.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/portfolio/port01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/portfolio/port02.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/portfolio/port02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/portfolio/port03.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/portfolio/port03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/portfolio/port04.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/portfolio/port04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/portfolio/port05.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/portfolio/port05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/portfolio/port06.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/portfolio/port06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/product.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/product.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/product.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/product.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/profile-01.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/profile-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/profile-02.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/profile-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/radio-gray.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/radio-gray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/ui-danro.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/ui-danro.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/ui-divya.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/ui-divya.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/ui-sam.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/ui-sam.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/ui-sherman.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/ui-sherman.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/ui-zac.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/ui-zac.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/weather.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/weather.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/img/zoom.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/img/zoom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/bootstrap-inputmask/bootstrap-inputmask.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/bootstrap-inputmask/bootstrap-inputmask.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/bootstrap-switch.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/bootstrap-switch.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/calendar-conf-events.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/calendar-conf-events.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/chart-master/Chart.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/chart-master/Chart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/chartjs-conf.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/chartjs-conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/common-scripts.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/common-scripts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/easy-pie-chart.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/easy-pie-chart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/fancybox/jquery.fancybox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/fancybox/jquery.fancybox.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/fancybox/jquery.fancybox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/form-component.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/form-component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/fullcalendar/bootstrap-fullcalendar.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/fullcalendar/bootstrap-fullcalendar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/fullcalendar/fullcalendar.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/fullcalendar/fullcalendar.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter-conf.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter-conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter/css/jquery.gritter.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter/css/jquery.gritter.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter/css/jquery.gritter0.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter/css/jquery.gritter0.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter/images/gritter-light.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter/images/gritter-light.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter/images/gritter-long.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter/images/gritter-long.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter/images/gritter.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter/images/gritter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter/images/ie-spacer.gif" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter/images/ie-spacer.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/gritter/js/jquery.gritter.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/gritter/js/jquery.gritter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-1.8.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-ui-1.9.2.custom.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-ui-1.9.2.custom.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/README.md" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/additional-methods.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/additional-methods.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/additional-methods.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/additional-methods.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/jquery.validate.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/jquery.validate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/jquery.validate.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/jquery.validate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ar.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ar.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ar.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bg.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bg.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bg.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bg.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bn_BD.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bn_BD.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bn_BD.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_bn_BD.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ca.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ca.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ca.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ca.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_cs.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_cs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_cs.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_cs.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_da.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_da.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_da.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_da.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_de.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_de.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_de.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_de.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_el.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_el.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_el.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_el.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_AR.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_AR.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_AR.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_AR.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_PE.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_PE.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_PE.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_es_PE.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_et.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_et.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_et.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_et.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_eu.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_eu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_eu.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_eu.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fa.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fa.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fa.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fi.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fi.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fi.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fr.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fr.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_fr.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ge.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ge.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ge.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ge.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_gl.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_gl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_gl.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_gl.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_he.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_he.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_he.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_he.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hr.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hr.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hr.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hu.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hu.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hu.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hy_AM.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hy_AM.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hy_AM.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_hy_AM.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_id.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_id.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_id.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_id.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_is.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_is.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_is.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_is.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_it.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_it.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_it.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_it.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ja.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ja.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ja.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ja.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ka.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ka.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ka.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ka.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_kk.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_kk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_kk.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_kk.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ko.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ko.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ko.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ko.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lt.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lt.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lt.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lv.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lv.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_lv.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_my.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_my.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_my.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_my.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_nl.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_nl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_nl.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_nl.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_no.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_no.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_no.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_no.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pl.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pl.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pl.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_BR.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_BR.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_BR.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_BR.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_PT.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_PT.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_PT.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_pt_PT.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ro.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ro.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ro.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ro.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ru.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ru.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ru.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_ru.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_si.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_si.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_si.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_si.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sk.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sk.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sk.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sl.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sl.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sl.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr_lat.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr_lat.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr_lat.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sr_lat.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sv.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sv.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_sv.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_th.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_th.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_th.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_th.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tj.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tj.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tj.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tj.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tr.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tr.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_tr.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_uk.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_uk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_uk.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_uk.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_vi.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_vi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_vi.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_vi.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh_TW.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh_TW.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh_TW.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/messages_zh_TW.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_de.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_de.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_de.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_de.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_es_CL.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_es_CL.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_es_CL.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_es_CL.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_fi.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_fi.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_fi.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_fi.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_nl.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_nl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_nl.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_nl.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_pt.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_pt.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_pt.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery-validation/js/localization/methods_pt.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.backstretch.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.backstretch.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.dcjqaccordion.2.7.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.dcjqaccordion.2.7.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.nicescroll.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.nicescroll.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.scrollTo.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.scrollTo.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.sparkline.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.sparkline.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.tagsinput.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.tagsinput.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/jquery.ui.touch-punch.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/jquery.ui.touch-punch.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/layer/layer.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/layer/layer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/layer/skin/default/icon-ext.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/layer/skin/default/icon-ext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/layer/skin/default/icon.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/layer/skin/default/icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/layer/skin/default/loading-0.gif" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/layer/skin/default/loading-0.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/layer/skin/default/loading-1.gif" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/layer/skin/default/loading-1.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/layer/skin/default/loading-2.gif" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/layer/skin/default/loading-2.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/layer/skin/layer.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/layer/skin/layer.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/morris-conf.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/morris-conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/require.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/require.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/sparkline-chart.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/sparkline-chart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/tasks.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/tasks.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/css/images/Thumbs.db" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/css/images/Thumbs.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/css/images/sprite.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/css/images/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/css/ssi-uploader.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/css/ssi-uploader.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/css/ssi-uploader.min.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/css/ssi-uploader.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/css/ssi-uploader.min.css.map" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/css/ssi-uploader.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/css/style.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/index.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/js/jquery-2.1.1.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/js/jquery-2.1.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/js/ssi-uploader.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/js/ssi-uploader.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/js/ssi-uploader.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/js/ssi-uploader.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/js/ssi-uploader.min.js.map" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/js/ssi-uploader.min.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Check-23.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Check-23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Check-7.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Check-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Exclamation-7.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Exclamation-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Exclamation23.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/Exclamation23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-10.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-23.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-23.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-7.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-7w.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/ban-7w.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/trash-10.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/trash-10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/trash-7.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/images/trash-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/sprite.scss" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/sprite.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/ssi-uploader.scss" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/uploadImg/src/ssi-uploader/styles/ssi-uploader.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/js/zabuto_calendar.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/js/zabuto_calendar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/lineicons/fonts/linecons.eot" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/lineicons/fonts/linecons.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/lineicons/fonts/linecons.svg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/lineicons/fonts/linecons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/lineicons/fonts/linecons.ttf" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/lineicons/fonts/linecons.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/lineicons/fonts/linecons.woff" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/lineicons/fonts/linecons.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/lineicons/index.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/lineicons/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/lineicons/lte-ie7.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/lineicons/lte-ie7.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/assets/lineicons/style.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/assets/lineicons/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/css/jquery.slider.min.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/css/jquery.slider.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/css/jslider.blue.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/css/jslider.blue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/css/jslider.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/css/jslider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/css/jslider.plastic.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/css/jslider.plastic.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/css/jslider.round.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/css/jslider.round.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/css/jslider.round.plastic.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/css/jslider.round.plastic.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/css/register-login.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/css/register-login.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/favicon.ico" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/images/love.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/images/love.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/images/luffy.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/images/luffy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/images/namei.jpg" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/images/namei.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/images/penguin.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/images/penguin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/img/Thumbs.db" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/img/Thumbs.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/img/jslider.blue.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/img/jslider.blue.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/img/jslider.plastic.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/img/jslider.plastic.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/img/jslider.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/img/jslider.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/img/jslider.round.plastic.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/img/jslider.round.plastic.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/img/jslider.round.png" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/img/jslider.round.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/angular-route.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/angular-route.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/angular-ui-router.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/angular-ui-router.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/angular.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/angular.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/angular.js.bak" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/angular.js.bak" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/angular.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/angular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/background.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/background.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/draggable-0.1.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/draggable-0.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/index.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jquery-1.7.2.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jquery-1.7.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jquery-ui.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jquery-ui.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jquery.dependClass-0.1.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jquery.dependClass-0.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jquery.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jquery.numberformatter-1.2.3.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jquery.numberformatter-1.2.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jquery.slider.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jquery.slider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jquery.slider.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jquery.slider.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/jshashtable-2.1_src.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/jshashtable-2.1_src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/morris-0.4.3.min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/morris-0.4.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/ng-table/ng-table.css" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/ng-table/ng-table.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/ng-table/ng-table.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/ng-table/ng-table.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/particles.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/particles.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/raphael-min.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/raphael-min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/static/js/tmpl.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/js/tmpl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/404.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/basic_table.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/basic_table.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/blank.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/blank.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/buttons.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/buttons.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/calendar.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/calendar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/chartjs.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/chartjs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/form_component.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/form_component.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/gallery.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/gallery.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/home.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/lock_screen.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/lock_screen.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/login.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/morris.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/morris.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/register.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/register.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/responsive_table.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/responsive_table.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/main/resources/templates/todo_list.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/todo_list.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/weist/src/test/java/com/weiyt/weist/DemoweistApplicationTests.java" afterPath="$PROJECT_DIR$/playingloves/src/test/java/com/weiyt/weist/DemoweistApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/weist_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/weist_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/weist_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/weist_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="65f98c50-a50a-46d3-8475-2693c2675155" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/AppErrorController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/MessageBoardContoller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/MessageBoardMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/MessageBoardService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/MessageBoardServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/BaseController.java" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BaseController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/UserController.java" afterPath="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html" afterPath="$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html" />
     </list>
     <ignored path="$PROJECT_DIR$/weist/target/" />
     <ignored path="$PROJECT_DIR$/playingloves/target/" />
@@ -413,11 +32,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="buttons.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/buttons.html">
+      <file leaf-file-name="MessageBoardService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/MessageBoardService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="183" column="34" lean-forward="false" selection-start-line="183" selection-start-column="34" selection-end-line="183" selection-end-column="34" />
+            <state relative-caret-position="300">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WytApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppErrorController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/AppErrorController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="63" column="37" lean-forward="false" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpStatus.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -426,18 +89,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4130">
-              <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="105" column="45" lean-forward="false" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+            <state relative-caret-position="4340">
+              <caret line="217" column="1" lean-forward="false" selection-start-line="217" selection-start-column="1" selection-end-line="217" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -446,9 +99,75 @@
       <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+            <state relative-caret-position="280">
+              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2780">
+              <caret line="139" column="55" lean-forward="false" selection-start-line="139" selection-start-column="55" selection-end-line="139" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="51" column="11" lean-forward="false" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageBoardServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/MessageBoardServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageBoardContoller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/MessageBoardContoller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -456,28 +175,18 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+            <state relative-caret-position="300">
+              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js">
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="680">
+              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -489,6 +198,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -509,6 +220,11 @@
       <find>findUserById</find>
       <find>logout</find>
       <find>logou</find>
+      <find>messageBoard</find>
+      <find>留言</find>
+      <find>data</find>
+      <find>首页</find>
+      <find>de</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -549,13 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/playingloves/src/main/resources/templates/login.html" />
-        <option value="$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.class" />
-        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [13].conf" />
-        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [14].conf" />
-        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [15].conf" />
-        <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [17].conf" />
         <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [18].conf" />
         <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [19].conf" />
         <option value="$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [20].conf" />
@@ -588,18 +297,25 @@
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/LoginUserService.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/LoginUserServiceImpl.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/LoginUserMapper.java" />
-        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/UserService.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BaseService.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BasePojo.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java" />
         <option value="$PROJECT_DIR$/playingloves/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mappers/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html" />
-        <option value="$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js" />
         <option value="$PROJECT_DIR$/playingloves/src/main/resources/static/app/login.js" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BaseController.java" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/MessageBoardServiceImpl.java" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/MessageBoardMapper.java" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/MessageBoardService.java" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/MessageBoardContoller.java" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.html" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java" />
+        <option value="$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/AppErrorController.java" />
       </list>
     </option>
   </component>
@@ -651,8 +367,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="302" />
+    <option name="y" value="14" />
     <option name="width" value="1696" />
     <option name="height" value="1026" />
   </component>
@@ -673,6 +389,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -737,66 +454,10 @@
               <item name="weiyt" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="liunx_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liunx_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="playingloves" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liunx_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liunx_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="playingloves" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liunx_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liunx_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="playingloves" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mappers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liunx_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liunx_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="playingloves" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liunx_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liunx_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="playingloves" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liunx_pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liunx_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="playingloves" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -819,14 +480,18 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.weiyt.mapper" />
+      <recent name="com.weiyt.service" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.weiyt" />
       <recent name="com" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.weiyt.service.impl" />
       <recent name="com.weiyt.pojo" />
       <recent name="com.weiyt.service" />
-      <recent name="com.weiyt.service.impl" />
       <recent name="com.weiyt.controller" />
       <recent name="com.weiyt" />
     </key>
@@ -1033,44 +698,53 @@
       <option name="presentableId" value="Default" />
       <updated>1514013785197</updated>
       <workItem from="1514013786639" duration="14285000" />
-      <workItem from="1514185891676" duration="8345000" />
+      <workItem from="1514185891676" duration="11282000" />
+      <workItem from="1514253230367" duration="16000" />
     </task>
+    <task id="LOCAL-00001" summary="架构改变">
+      <created>1514194570336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514194570336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22630000" />
+    <option name="totallyTimeSpent" value="25583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39522058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25367647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25735295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6655012" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1107,7 +781,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="改名" />
-    <option name="LAST_COMMIT_MESSAGE" value="改名" />
+    <MESSAGE value="架构改变" />
+    <option name="LAST_COMMIT_MESSAGE" value="架构改变" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1116,63 +791,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [26].conf" />
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [27].conf" />
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [28].conf" />
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/DemoweistApplication.java" />
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/ServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [29].conf" />
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [31].conf" />
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [32].conf" />
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [33].conf" />
-    <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [34].conf" />
     <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [35].conf" />
     <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [36].conf" />
     <entry file="file://$USER_HOME$/Documents/NetSarang/Xftp/Temporary/nginx [37].conf" />
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/ForumServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/ForumService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/ForumController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mappers/ContentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/ForumServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/ForumService.java" />
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/ForumController.java" />
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mappers/ContentMapper.xml" />
     <entry file="jar://$USER_HOME$/.m2/repository/com/github/abel533/mapper/2.3.4/mapper-2.3.4.jar!/com/github/abel533/entity/Example.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="48" column="32" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,9 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="664">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1190,9 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="664">
           <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1200,18 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="129" column="14" lean-forward="false" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
-          <folding>
-            <element signature="e#3518#3519#0" expanded="false" />
-            <element signature="e#3572#3573#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1219,18 +830,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/UserRepository.java" />
     <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -1239,35 +842,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/LoginUserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/LoginUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/LoginUserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="17" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/LoginUserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/LoginUserService.java" />
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/LoginUserMapper.java" />
     <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BasePojo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1275,14 +856,142 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/BaseController.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
+        <state relative-caret-position="2120">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/github/abel533/mapper/2.3.4/mapper-2.3.4.jar!/com/github/abel533/mapper/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4160">
+          <caret line="223" column="3" lean-forward="true" selection-start-line="223" selection-start-column="3" selection-end-line="223" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/chartjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/forum/ForumService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/forum/ForumCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="183" column="34" lean-forward="false" selection-start-line="183" selection-start-column="34" selection-end-line="183" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/MessageBoardMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/QueryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1295,162 +1004,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/MessageBoardServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2120">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/github/abel533/mapper/2.3.4/mapper-2.3.4.jar!/com/github/abel533/mapper/Mapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="260">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/base/BaseService.java">
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/MessageBoardContoller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="340">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="39" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mybatis-config.xml">
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/MessageBoardService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="300">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="51" column="11" lean-forward="false" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4160">
-          <caret line="223" column="3" lean-forward="true" selection-start-line="223" selection-start-column="3" selection-end-line="223" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/mybatis/mappers/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding>
-            <marker date="1514193608808" expanded="true" signature="262:316" ph="UPDATE user " />
-            <marker date="1514193608808" expanded="true" signature="417:487" ph="select * fro... user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="57" column="55" lean-forward="false" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="183" column="34" lean-forward="false" selection-start-line="183" selection-start-column="34" selection-end-line="183" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4130">
-          <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/forum/ForumService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/forum/ForumCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+        <state relative-caret-position="220">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="105" column="45" lean-forward="false" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+        <state relative-caret-position="2780">
+          <caret line="139" column="55" lean-forward="false" selection-start-line="139" selection-start-column="55" selection-end-line="139" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/login.js">
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="280">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/app.js">
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/resources/static/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="4340">
+          <caret line="217" column="1" lean-forward="false" selection-start-line="217" selection-start-column="1" selection-end-line="217" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/WytApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playingloves/src/main/java/com/weiyt/controller/AppErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="63" column="37" lean-forward="false" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

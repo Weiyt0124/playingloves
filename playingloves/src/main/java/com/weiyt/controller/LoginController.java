@@ -20,11 +20,11 @@ public class LoginController {
 
     @Autowired
     private UserServiceImpl userServiceImpl;
-    @RequestMapping("/{anNing}")
-    public String login(@PathVariable String anNing) {
-
-        return anNing;
-    }
+//    @RequestMapping("/{anNing}")
+//    public String login(@PathVariable String anNing) {
+//
+//        return anNing;
+//    }
 
 
     @GetMapping("/")

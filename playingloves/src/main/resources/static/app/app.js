@@ -43,7 +43,7 @@ angular
 
         $scope.replyList = function () {
             $http.get("messageBoard/replyList").success(function (res) {
-                $scope.data = res;
+                $scope.messageBoardList = res;
             })
         }
         $scope.findUserInfo = function () {

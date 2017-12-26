@@ -36,7 +36,7 @@ public class WytApplication {
             public void customize(ConfigurableEmbeddedServletContainer container) {
 
                 ErrorPage error401Page = new ErrorPage(HttpStatus.UNAUTHORIZED, "/402");
-                ErrorPage error404Page = new ErrorPage(HttpStatus.NOT_FOUND, "/");
+                ErrorPage error404Page = new ErrorPage(HttpStatus.NOT_FOUND, "/home.html");
                 ErrorPage error500Page = new ErrorPage(HttpStatus.INTERNAL_SERVER_ERROR, "/500");
 
                 container.addErrorPages(error401Page, error404Page, error500Page);

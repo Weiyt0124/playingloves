@@ -1,4 +1,4 @@
-package com.weiyt.controller;
+package com.weiyt.base;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
