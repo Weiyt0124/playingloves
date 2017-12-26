@@ -1,8 +1,7 @@
 package com.weiyt.service;
 
-import com.weiyt.pojo.MessageBoard;
-
 import java.util.List;
+import java.util.Map;
 
 /**
  * @author 艾泽拉斯国家地理
@@ -15,5 +14,5 @@ public interface MessageBoardService {
      * @return
      * @Author Wyt
      */
-    List<MessageBoard> queryAll(Class<MessageBoard> messageBoardClass);
+    List<Map<String,Object>> findReplyList();
 }

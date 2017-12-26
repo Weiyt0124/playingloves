@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.weiyt.mapper.MessageBoardMapper">
+    <select id="findReplyList" resultType="HashMap">
+
+        SELECT r.*,u.nickname as nickName,u.avatar as avatar FROM reply  r INNER JOIN user u ON r.uid = u.id;
+
+
+    </select>
+
+</mapper>
